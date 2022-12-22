@@ -3,6 +3,11 @@
         "vector": "cpp",
         "forward_list": "cpp",
         "deque": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "type_traits": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "new": "cpp",
+        "regex": "cpp"
     }
 }
