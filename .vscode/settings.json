@@ -9,5 +9,6 @@
         "string": "cpp",
         "new": "cpp",
         "regex": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "enabledIfIncludesResolve"
 }
