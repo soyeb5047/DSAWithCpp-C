@@ -11,6 +11,7 @@ int factorial(int n)
     return factorial(n - 1) * n;
 }
 
+
 int fact(int n, int r)
 {
     int x = factorial(n);

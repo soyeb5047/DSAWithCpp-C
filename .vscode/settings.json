@@ -8,7 +8,9 @@
         "array": "cpp",
         "string": "cpp",
         "new": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
     },
     "C_Cpp.errorSquiggles": "enabledIfIncludesResolve"
 }
