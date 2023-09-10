@@ -66,6 +66,6 @@ int main()
     
     // c.b = 20;    we can't acess this if child class privately, protectedly inherited
     // c.b = 20;    we can't acess this if child class publically inherited because it is protected in parent class
-    // c.c = 30;    we can't acess this if child class privately, protectedly inherited
+    // c.c = 30;    //we can't acess this if child class privately, protectedly inherited
     c.c = 30;
 }

@@ -14,7 +14,10 @@
         "*.tcc": "cpp",
         "unordered_map": "cpp",
         "unordered_set": "cpp",
-        "complex": "cpp"
+        "complex": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp"
     },
     "C_Cpp.errorSquiggles": "enabledIfIncludesResolve"
 }
